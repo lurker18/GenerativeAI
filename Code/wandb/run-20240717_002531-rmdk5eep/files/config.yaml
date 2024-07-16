@@ -1,0 +1,48 @@
+wandb_version: 1
+
+optimizer:
+  desc: null
+  value: adam
+model:
+  desc: null
+  value: wgen gp
+epoch:
+  desc: null
+  value: '1000'
+batch_size:
+  desc: null
+  value: 128
+_wandb:
+  desc: null
+  value:
+    python_version: 3.10.14
+    cli_version: 0.16.4
+    framework: huggingface
+    huggingface_version: 4.39.1
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1721143531.0
+    t:
+      1:
+      - 1
+      - 11
+      - 41
+      - 49
+      - 55
+      2:
+      - 1
+      - 11
+      - 41
+      - 49
+      - 55
+      3:
+      - 16
+      - 23
+      4: 3.10.14
+      5: 0.16.4
+      6: 4.39.1
+      8:
+      - 1
+      - 4
+      - 5
+      13: darwin-arm64

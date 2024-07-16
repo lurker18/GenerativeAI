@@ -1,0 +1,37 @@
+{
+    "os": "macOS-13.6.7-arm64-arm-64bit",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-07-16T15:25:32.709414",
+    "startedAt": "2024-07-16T15:25:31.972257",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/lurker18/Desktop/GenerativeAI/Code/Advanced_GAN.py",
+    "codePathLocal": "Advanced_GAN.py",
+    "codePath": "Code/Advanced_GAN.py",
+    "git": {
+        "remote": "https://github.com/lurker18/GenerativeAI.git",
+        "commit": "bd92477067c33311fbb511dcde366c165b0c7b7e"
+    },
+    "email": "lurker18@naver.com",
+    "root": "/Users/lurker18/Desktop/GenerativeAI",
+    "host": "lurker18-MacBook-Pro.local",
+    "username": "lurker18",
+    "executable": "/opt/anaconda3/envs/tensor/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 183.7641143798828
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
